@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My Best Friend</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <audio autoplay loop>
+        <source src="https://www.example.com/there_is_a_light.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    
+    <div class="container">
+        <h1>I love you, Taya</h1>
+        <p>You are the best thing I have in this world</p>
+        
+        <div class="images">
+            <img src="ami_ar_amr_taya6.jpg" alt="Best Friends">
+            <img src="ami_ar_amr_taya2.jpg" alt="Best Friends">
+            <img src="ami_ar_amr_taya.jpg" alt="Best Friends">
+        </div>
+        
+        <div class="letter">
+            <p>Dear Taya,</p>
+            <p>[Your heartfelt letter goes here]</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
